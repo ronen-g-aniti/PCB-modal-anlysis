@@ -22,26 +22,26 @@ I conducted a comprehensive modal analysis of a PCB using Ansys Workbench. The P
 Below are the images of the mode shapes identified during the analysis, which highlight the deformation patterns and critical stress points in the PCB:
 
 ### Mode Shape 1
-![Mode Shape 1](mode_shape_1.png)
+![Mode Shape 1](results/mode_shape_1.png)
 
 ### Mode Shape 2
-![Mode Shape 2](mode_shape_2.png)
+![Mode Shape 2](results/mode_shape_2.png)
 
 ### Mode Shape 3
-![Mode Shape 3](mode_shape_3.png)
+![Mode Shape 3](results/mode_shape_3.png)
 
 ### Mode Shape 4
-![Mode Shape 4](mode_shape_4.png)
+![Mode Shape 4](results/mode_shape_4.png)
 
 ### Mode Shape 5
-![Mode Shape 5](mode_shape_5.png)
+![Mode Shape 5](results/mode_shape_5.png)
 
 ### Mode Shape 6
-![Mode Shape 6](mode_shape_6.png)
+![Mode Shape 6](results/mode_shape_6.png)
 
 ## Files in the Repository
 - **FR4_Circuit_Board_with_Copper_Pads_and_Traces.step**: STEP file of the PCB model.
-- **modal_analysis_report.html**: Detailed report of the modal analysis.
+- **modal_analysis_report.pdf**: Detailed report of the modal analysis.
 - **mode_shape_1.png**: Image of the first mode shape.
 - **mode_shape_2.png**: Image of the second mode shape.
 - **mode_shape_3.png**: Image of the third mode shape.
